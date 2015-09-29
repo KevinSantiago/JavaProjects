@@ -4,7 +4,7 @@ Description:
 
 The purpose of the program is to calculate how many times
 each options in a menu was used. The program has 4 options,
-in the menu, the first one is, "Performe Operations on Numbers", 
+in the menu, the first one is, "Perform Operations on Numbers", 
 inside this option there are two more options, one to calculate 
 a quadratic and another to calculate the average of a list of 
 numbers. The second one is, "Perform Operations on Strings", 
